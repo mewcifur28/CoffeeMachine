@@ -1,3 +1,11 @@
+# About
+
+This project was added as a part of a java course on jetbrains academy.
+This project requires simple coding logic
+- Loops
+- Conditionals
+- Menu based systems
+
 # DESCRIPTION
 
 Let's simulate a coffee machine. It has a limited supply of water, milk, coffee beans, and disposable cups. Also, it counts how much money it gets for selling coffee.
